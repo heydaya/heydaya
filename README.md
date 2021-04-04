@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @heydaya
+- 👋 Hi, I’m Daya Shankar
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning React.js
 - 📫 Find me on linkedin at daya-shankar
