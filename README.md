@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daya Shankar
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning Python
 - 📫 Find me on linkedin at daya-shankar
 
 <!---
